@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0366733fe277fc14141acdfe972980ac",
+    "revision": "d5e344b89aa56193e6ff646edb6db7ca",
     "url": "/QrAlfred/index.html"
   },
   {
-    "revision": "22514055d8b1a538a964",
+    "revision": "3df192ed685958b3a42b",
     "url": "/QrAlfred/static/css/main.d5be4474.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/QrAlfred/static/js/2.68715344.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22514055d8b1a538a964",
-    "url": "/QrAlfred/static/js/main.c44cb76e.chunk.js"
+    "revision": "3df192ed685958b3a42b",
+    "url": "/QrAlfred/static/js/main.55fc8bc2.chunk.js"
   },
   {
     "revision": "65ea01860d449bcd1004",

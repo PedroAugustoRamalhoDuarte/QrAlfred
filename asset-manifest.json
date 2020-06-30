@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QrAlfred/static/css/main.d5be4474.chunk.css",
-    "main.js": "/QrAlfred/static/js/main.c44cb76e.chunk.js",
-    "main.js.map": "/QrAlfred/static/js/main.c44cb76e.chunk.js.map",
+    "main.js": "/QrAlfred/static/js/main.55fc8bc2.chunk.js",
+    "main.js.map": "/QrAlfred/static/js/main.55fc8bc2.chunk.js.map",
     "runtime-main.js": "/QrAlfred/static/js/runtime-main.4578e3df.js",
     "runtime-main.js.map": "/QrAlfred/static/js/runtime-main.4578e3df.js.map",
     "static/js/2.68715344.chunk.js": "/QrAlfred/static/js/2.68715344.chunk.js",
     "static/js/2.68715344.chunk.js.map": "/QrAlfred/static/js/2.68715344.chunk.js.map",
     "index.html": "/QrAlfred/index.html",
-    "precache-manifest.8b10a8ee515e6b7094eaf0e6a1858777.js": "/QrAlfred/precache-manifest.8b10a8ee515e6b7094eaf0e6a1858777.js",
+    "precache-manifest.0a33a293b475af9a1c567db705a3da82.js": "/QrAlfred/precache-manifest.0a33a293b475af9a1c567db705a3da82.js",
     "service-worker.js": "/QrAlfred/service-worker.js",
     "static/css/main.d5be4474.chunk.css.map": "/QrAlfred/static/css/main.d5be4474.chunk.css.map",
     "static/js/2.68715344.chunk.js.LICENSE.txt": "/QrAlfred/static/js/2.68715344.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.4578e3df.js",
     "static/js/2.68715344.chunk.js",
     "static/css/main.d5be4474.chunk.css",
-    "static/js/main.c44cb76e.chunk.js"
+    "static/js/main.55fc8bc2.chunk.js"
   ]
 }
