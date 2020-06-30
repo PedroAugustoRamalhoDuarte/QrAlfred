@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/QrAlfred/static/css/main.d5be4474.chunk.css",
+    "main.js": "/QrAlfred/static/js/main.c44cb76e.chunk.js",
+    "main.js.map": "/QrAlfred/static/js/main.c44cb76e.chunk.js.map",
+    "runtime-main.js": "/QrAlfred/static/js/runtime-main.4578e3df.js",
+    "runtime-main.js.map": "/QrAlfred/static/js/runtime-main.4578e3df.js.map",
+    "static/js/2.68715344.chunk.js": "/QrAlfred/static/js/2.68715344.chunk.js",
+    "static/js/2.68715344.chunk.js.map": "/QrAlfred/static/js/2.68715344.chunk.js.map",
+    "index.html": "/QrAlfred/index.html",
+    "precache-manifest.8b10a8ee515e6b7094eaf0e6a1858777.js": "/QrAlfred/precache-manifest.8b10a8ee515e6b7094eaf0e6a1858777.js",
+    "service-worker.js": "/QrAlfred/service-worker.js",
+    "static/css/main.d5be4474.chunk.css.map": "/QrAlfred/static/css/main.d5be4474.chunk.css.map",
+    "static/js/2.68715344.chunk.js.LICENSE.txt": "/QrAlfred/static/js/2.68715344.chunk.js.LICENSE.txt",
+    "static/media/bar.jpg": "/QrAlfred/static/media/bar.8e1e8d97.jpg",
+    "static/media/cloud.png": "/QrAlfred/static/media/cloud.d480370f.png",
+    "static/media/facemask.jpg": "/QrAlfred/static/media/facemask.b6953a7d.jpg",
+    "static/media/food.jpg": "/QrAlfred/static/media/food.40d34066.jpg",
+    "static/media/form.png": "/QrAlfred/static/media/form.99b1ac30.png",
+    "static/media/graphs.jpg": "/QrAlfred/static/media/graphs.7630a615.jpg",
+    "static/media/logo.svg": "/QrAlfred/static/media/logo.5d5d9eef.svg",
+    "static/media/menu.png": "/QrAlfred/static/media/menu.e7326834.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4578e3df.js",
+    "static/js/2.68715344.chunk.js",
+    "static/css/main.d5be4474.chunk.css",
+    "static/js/main.c44cb76e.chunk.js"
+  ]
+}
