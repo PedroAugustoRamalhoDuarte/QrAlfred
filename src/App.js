@@ -13,7 +13,7 @@ import BarImage from "./images/bar.jpg"
 
 function App() {
     return (
-        <div>
+        <div style={{overflowX: "hidden"}}>
 
             <header className="masthead text-center text-white d-flex"
                     style={{backgroundImage: `url(${BarImage})`, opacity: "1.4"}}>
@@ -148,45 +148,9 @@ function App() {
 
             <footer className="py-5 bg-dark">
                 <div className="row">
-                    <div className="col-12 col-md">
-                        <p>QrAlfred!</p>
+                    <div className="col-12 col-md text-center">
+                        <p className="text-white">QrAlfred!</p>
                         <small className="d-block mb-3 text-muted">© 2020-2021</small>
-                    </div>
-
-                    <div className="col-6 col-md">
-                        <h5>Sobre</h5>
-                        <ul className="list-unstyled text-small">
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div className="col-6 col-md">
-                        <h5>Contato</h5>
-                        <ul className="list-unstyled text-small">
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                            <li>
-
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </footer>
