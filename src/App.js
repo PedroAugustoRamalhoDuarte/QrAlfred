@@ -9,24 +9,25 @@ import FormImage from "./images/form.png"
 import FaceMaskImage from "./images/facemask.jpg"
 import Graphs from "./images/graphs.jpg"
 import CloudImage from "./images/cloud.png"
-
+import BarImage from "./images/bar.jpg"
 function App() {
     return (
         <div>
-            <header className="masthead text-center text-white">
-                <div className="masthead-content">
-                    <div className="container">
-                        <h1 className="masthead-heading mb-0"><span className="">QR</span><span
-                            className="">ALFRED</span></h1>
-                        <h2 className="masthead-subheading mb-0">Venha fazer parte dessa transformação!</h2><a
-                        className="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#">Conheça Mais</a>
+
+            <header className="masthead text-center text-white d-flex" style={{backgroundImage: `url(${BarImage})`, opacity: "1.4"}} >
+                <div className="container my-auto">
+                    <div className="row">
+                        <div className="col-lg-10 mx-auto">
+                            <h1 className="text-uppercase"><strong>QR Alfred</strong></h1>
+                            <hr/>
+                        </div>
                     </div>
+                    <div className="col-lg-8 mx-auto">
+                        <h3 className="text-faded mb-5">Seu restaurante no mundo digital</h3><a
+                        className="btn btn-primary btn-xl js-scroll-trigger" role="button" href="#services">Descubra Mais</a></div>
                 </div>
-                <div className="bg-circle-1 bg-circle"/>
-                <div className="bg-circle-2 bg-circle"/>
-                <div className="bg-circle-3 bg-circle"/>
-                <div className="bg-circle-4 bg-circle"/>
             </header>
+
             <h1 className="text-success text-center pt-5"> Soluções</h1>
             <section>
                 <div className="container">
@@ -138,10 +139,8 @@ function App() {
                     </div>
                 </div>
             </section>
-            <h1 className="text-center text-secondary-color"> TUDO ISSO, E MUITO MAIS, EM
-                APENAS UMA PLATAFORMA </h1>
 
-            <footer className="container py-5">
+            <footer className="py-5 bg-dark">
                 <div className="row">
                     <div className="col-12 col-md">
                         <p>QrAlfred!</p>
